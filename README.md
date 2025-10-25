@@ -1,2 +1,2 @@
 # RevistaCorporeSano1
-A magazine made by me, only Word/Windows
+Minha primeira revista, feita no microsoft Word, em 2021.
